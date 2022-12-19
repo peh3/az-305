@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2022-12-19T05:40:03.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="e54jzOoP5lO9gdG9ENPx" version="20.7.4" type="github">
+  <diagram id="-W-IftBYjejMgLZBVs1a" name="Page-1">
+    <mxGraphModel dx="1004" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nyYrRtNtimhPDTRfhX-r-1" value="&lt;ul style=&quot;box-sizing: border-box; margin-top: 1rem; margin-bottom: 0px; color: rgb(34, 34, 34); font-family: segoe-ui_normal, &amp;quot;Segoe UI&amp;quot;, Segoe, &amp;quot;Segoe WP&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 1rem; margin-bottom: 0px;&quot;&gt;What are the different ways Tailwind Traders could track costs for the new development project?&lt;br&gt;&lt;br&gt;Subscription, tagging&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 1rem; margin-bottom: 0px;&quot;&gt;How are you ensuring compliance with the requirements for virtual machine sizing and naming? &lt;br&gt;&lt;br&gt;Policy,&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 1rem; margin-bottom: 0px;&quot;&gt;Propose at least two ways of meeting the requirements. Explain your final decision.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="70" width="560" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYrRtNtimhPDTRfhX-r-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYrRtNtimhPDTRfhX-r-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYrRtNtimhPDTRfhX-r-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
